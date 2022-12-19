@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Welcome!
 I'm Rohit Ravi and I'm enthusiastic about XR development. <br>I have done a research project and my master thesis in AR development, which piqued my interest in this field.<br>I have a master's degree in Robotics and 2 years of work experience in Computer Vision & AR development. 
 
 
